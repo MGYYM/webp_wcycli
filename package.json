@@ -1,0 +1,21 @@
+{
+  "name": "webp-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "webp-cli": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "commander": "^6.2.1",
+    "download-github-repo": "^0.1.4",
+    "shelljs": "^0.8.4"
+  }
+}
